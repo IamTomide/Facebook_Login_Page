@@ -41,13 +41,14 @@ section{
 
 @media screen and (max-width: 875px) {
     .text {
-        padding-left: 50px;
+        margin-left: auto;
+        /*padding-left: 50px;*/
         padding-bottom: 20px;
     }
 
     .text p{
         font-weight: lighter;
-        margin: 15px 0px;
+        /*margin: 15px 0px;*/
     }
 
     .image > img{
